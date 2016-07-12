@@ -251,7 +251,7 @@ label:after{
 	background: #fff;
 	position: absolute;
 	left: 2px;
-	bottom:0px;
+	bottom:2px;
 
 }
 .course_detail:hover > .img_course{
